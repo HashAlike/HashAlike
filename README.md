@@ -35,4 +35,4 @@ with a focus on real-world datasets and machine learning.
 
 ## Currently Exploring
 
-Machine Learning → Deep Learning 
+Data Science → Machine Learning → Deep Learning 
