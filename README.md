@@ -5,6 +5,11 @@ Data Science • AI • Cybersecurity
 I'm a student focused on Data Science, AI,
 and Cybersecurity.
 
+### ✍️ Writing
+I write about technology, ideas, and things that interest me.
+
+[Read my articles on Medium](https://medium.com/@m.isik1920)
+
 ## Current Focus
 
 - Building Data Science projects
