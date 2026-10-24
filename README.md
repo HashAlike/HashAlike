@@ -13,7 +13,7 @@ I write about technology, ideas, and things that interest me.
 ## Current Focus
 
 - Building Data Science projects
-- Developing with C and Linux
+- Developing with C, C++ and Linux
 - Strengthening my programming fundamentals
 
 ## Technologies
